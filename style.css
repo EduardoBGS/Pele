@@ -1,0 +1,60 @@
+body,html{
+height: 100%;
+margin: 0;
+
+}
+
+.background{
+background-image: url(pelé\ campeao.jpeg);
+background-repeat: no-repeat;
+background-size:cover;
+background-position:center;
+background-attachment:fixed;
+}
+
+h1 { font-family: 'Arial', Helvetica, sans-serif;color: white;font-style:italic ;text-align: center ;}
+
+h1{font-family: Arial, Helvetica, sans-serif;
+    color: #FF0000; 
+    font-size: 50px;
+    font-style: italic;
+    font-variant: small-caps;
+    
+}
+    
+    p{
+        color: rgb(248, 152, 152);
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h2{
+        color: rgb(248, 152, 152);
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h3{
+        color: rgb(248, 152, 152);
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    h4{
+        color: rgb(248, 152, 152);
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    li{
+        color: rgb(248, 152, 152);
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    UL{
+color: rgb(248, 152, 152);
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    b{
+        color: rgb(248, 152, 152);
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
